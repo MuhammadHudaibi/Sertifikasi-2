@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191132052341",
+    "project_id": "seritifikasi2",
+    "storage_bucket": "seritifikasi2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191132052341:android:570ffa0527ac97df33c13c",
+        "android_client_info": {
+          "package_name": "com.example.sertif2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtoXQQtRjJRW0fhgOjpuIFyhr_av2lh6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
